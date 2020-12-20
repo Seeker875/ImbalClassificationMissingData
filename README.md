@@ -1,11 +1,14 @@
 # ImbalClassificationMissingData
 
-### Binary Classification
+## Data Exploration R [Notebook](https://github.com/Seeker875/ImbalClassificationMissingData/blob/master/DataVisImBal.pdf)
+
+## Binary Classification
 * Full Project on handling imbalanced binary classification problem with missing not at random data. 
 
 * Dataset is reated to healthcare coverage and target is to predict people who does not have healthcare coverage. 
 
- Trained **Random Forest-Caret** with custom metric
+* Trained **Random Forest-Caret** with custom metric
+
 
 ##  Key Highlights
 * Thorough exploratory analysis on data.
